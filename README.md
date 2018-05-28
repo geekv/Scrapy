@@ -2,7 +2,7 @@
 使用Scrapy框架爬取Boss直聘网站的相关信息
 
 环境：
-  python（3.6.4）
+  python（3.6.4） /n
   redis (2.10.6)
   Scrapy (1.4.0)
   Scrapy-Redis(0.7.0)
