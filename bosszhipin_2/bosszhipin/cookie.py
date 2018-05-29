@@ -12,9 +12,9 @@ dcap["phantomjs.page.settings.userAgent"] = (
 )
 logger = logging.getLogger(__name__)
 logging.getLogger("selenium").setLevel(logging.WARNING) # 将selenium的日志级别设成WARNING，太烦人
-
+#此处填写账号、密码
 myzhipin=[
-    ('15077306171','wen8226789'),
+    ('*****','****'),
 ]
 
 
