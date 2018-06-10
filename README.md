@@ -19,7 +19,7 @@
   
 FROM ubuntu<br>
 RUN apt-get update<br>
-RUN apt-get install -y nano<br>
+RUN apt-get install -y vim<br>
 RUN apt-get -y dist-upgrade openssh-server<br>
 RUN apt-get install -y redis-server<br>
 RUN apt-get install -y python3.5 python3-pip<br>
